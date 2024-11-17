@@ -1,0 +1,3 @@
+/home/ubuntu/uWebSockets/examples/build/build/CMakeFiles/Client.dir
+/home/ubuntu/uWebSockets/examples/build/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/uWebSockets/examples/build/build/CMakeFiles/rebuild_cache.dir
